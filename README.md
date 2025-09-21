@@ -1,5 +1,5 @@
 # Machine-Learning
-My learnings and projects related to Machine learning by following the Zoomcamp
+My learnings and projects related to ML by following the Zoomcamp
 
 ## About ML Zoomcamp
 
