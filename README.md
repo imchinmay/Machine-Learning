@@ -17,7 +17,7 @@ There is a focus on the engineering side, from training models to deploying them
 
 ## Modules
 
-### [Module 1: Introduction to Machine Learning](01-intro/)
+### Module 1: Introduction to Machine Learning
 
 Learn the fundamentals: what ML is, when to use it, and how to approach ML problems using the CRISP-DM framework.
 
@@ -28,20 +28,20 @@ Learn the fundamentals: what ML is, when to use it, and how to approach ML probl
 - Model selection concepts
 - Environment setup
 
-### [Module 2: Machine Learning for Regression](02-regression/)
+### Module 2: Machine Learning for Regression
 
-Build a car price prediction model while learning linear regression, feature engineering, and regularization.
+Build a car price prediction model while learning linear regression, feature engineering, and regularisation.
 
 **Topics:**
 - Linear regression (from scratch and with scikit-learn)
 - Exploratory data analysis
 - Feature engineering
-- Regularization techniques
+- Regularisation techniques
 - Model validation
 
-### [Module 3: Machine Learning for Classification](03-classification/)
+### Module 3: Machine Learning for Classification
 
-Create a customer churn prediction system using logistic regression and learn about feature selection.
+Develop a customer churn prediction system utilising logistic regression and explore the process of feature selection.
 
 **Topics:**
 - Logistic regression
@@ -49,7 +49,7 @@ Create a customer churn prediction system using logistic regression and learn ab
 - Categorical variable encoding
 - Model interpretation
 
-### [Module 4: Evaluation Metrics for Classification](04-evaluation/)
+### Module 4: Evaluation Metrics for Classification
 
 Learn how to properly evaluate classification models and handle imbalanced datasets.
 
@@ -60,17 +60,17 @@ Learn how to properly evaluate classification models and handle imbalanced datas
 - Confusion matrices
 - Class imbalance handling
 
-### [Module 5: Deploying Machine Learning Models](05-deployment/)
+### Module 5: Deploying Machine Learning Models
 
 Turn your models into web services and deploy them with Docker and cloud platforms.
 
 **Topics:**
-- Model serialization with Pickle
+- Model serialisation with Pickle
 - FastAPI web services
 - Docker containerization
 - Cloud deployment
 
-### [Module 6: Decision Trees & Ensemble Learning](06-trees/)
+### Module 6: Decision Trees & Ensemble Learning
 
 Learn tree-based models and ensemble methods for better predictions.
 
@@ -86,7 +86,7 @@ Learn tree-based models and ensemble methods for better predictions.
 TBC
 
 
-### [Module 7: Neural Networks & Deep Learning](08-deep-learning/)
+### Module 7: Neural Networks & Deep Learning
 
 Introduction to neural networks using TensorFlow and Keras, including CNNs and transfer learning.
 
@@ -96,10 +96,10 @@ Introduction to neural networks using TensorFlow and Keras, including CNNs and t
 - TensorFlow & Keras
 - Convolutional Neural Networks
 - Transfer learning
-- Model optimization
+- Model optimisation
 
 
-### [Module 8: Serverless Deep Learning](09-serverless/)
+### Module 8: Serverless Deep Learning
 
 Deploy deep learning models using serverless technologies like AWS Lambda.
 
@@ -109,7 +109,7 @@ Deploy deep learning models using serverless technologies like AWS Lambda.
 - Deploying TensorFlow and PyTorch models with AWS Lambda
 - API Gateway
 
-### [Module 9: Kubernetes & TensorFlow Serving](10-kubernetes/)
+### Module 9: Kubernetes & TensorFlow Serving
 
 Learn to serve ML models at scale using Kubernetes and TensorFlow Serving.
 
@@ -121,6 +121,6 @@ Learn to serve ML models at scale using Kubernetes and TensorFlow Serving.
 
 
 
-### [Capstone Project](projects/)
+### Capstone Project
 
 TBC
